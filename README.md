@@ -1,7 +1,7 @@
 # Advanced GIS Portfolio
 https://satvikaneti.github.io/Advanced-GIS-Portfolio/
 
-This is a portfolio for Satvika Neti's work in the class Telling Stories with Data at Carnegie Mellon University.
+This is a portfolio for Satvika Neti's work in the class Advanced GIS at Carnegie Mellon University.
 
 ## Storytelling through data, for communities
 Satvika (she/her/hers) is passionate about the power of narrative, the importance of data and technology, and the necessity for intersectional justice for all communities. Her definition of intersectionality stems from embracing the hyphens of her identity, bridging the gap between her experiences, and expanding the work an organization is doing to include more people.
