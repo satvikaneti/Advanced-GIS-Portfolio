@@ -1,5 +1,4 @@
 # Advanced GIS Portfolio
-This is my portfolio for the Advanced GIS class! 
 https://satvikaneti.github.io/Advanced-GIS-Portfolio/
 
 This is a portfolio for Satvika Neti's work in the class Telling Stories with Data at Carnegie Mellon University.
