@@ -1,12 +1,3 @@
-# Create a base style map for a nonprofit
-
-For this project, I chose the nonprofit AAPI Data. 
-
-
-
-
-# Code Block Test
-
 <!DOCTYPE html>
 <html>
   <head>
