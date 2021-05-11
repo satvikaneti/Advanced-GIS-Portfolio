@@ -81,5 +81,5 @@ Here we can see the hotspot analysis and the spatial mean of the data - the hots
 
 This project is simply the start of analyzing where and how these toxic spills happen and how they affect communities of color. There is much that can be done to improve this project, from other ways to visualize the data to deeper analysis on specific counties (and tribal areas). For now, however, this dashboard can act as an important tool that can help the EPA find and intervene in counties where spills are happening. 
 
-I've included both the ArcGIS Insights workbook and ArcGIS Pro project packages in this [Google drive folder](https://drive.google.com/drive/folders/1JHt5VCljMIQiE7bmgqAh_kGN4VJMKzVJ?usp=sharing). 
+I've included both the ArcGIS Insights workbook and ArcGIS Pro project packages in this [Google drive folder](https://drive.google.com/drive/folders/1JHt5VCljMIQiE7bmgqAh_kGN4VJMKzVJ?usp=sharing). The project packages also include some tribal land analysis that didn't make it to the final analysis. 
 
