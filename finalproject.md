@@ -83,3 +83,5 @@ This project is simply the start of analyzing where and how these toxic spills h
 
 I've included both the ArcGIS Insights workbook and ArcGIS Pro project packages in this [Google drive folder](https://drive.google.com/drive/folders/1JHt5VCljMIQiE7bmgqAh_kGN4VJMKzVJ?usp=sharing). The project packages also include some tribal land analysis that didn't make it to the final analysis. 
 
+In terms of time, it ended up taking me a lot longer to create this workbook than I expected, given that my dataset was so large. I ended up having to do a lot of the analyses twice too so that I could package my Insights workbook like a dashboard, but overall I ended up staying within the time I expected earlier. 
+
