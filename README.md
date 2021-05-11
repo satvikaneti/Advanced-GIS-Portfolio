@@ -18,3 +18,8 @@ I'm also interested in the overlap between LIDAR and other satellite technology,
 
 ## Portfolio
 This is where the final portfolio will go!
+
+[Creating a Google Maps Base Layer](https://satvikaneti.github.io/Advanced-GIS-Portfolio/firstproject)
+
+[Final Project: EPA Toxic Spill Analysis](https://satvikaneti.github.io/Advanced-GIS-Portfolio/finalproject)
+
