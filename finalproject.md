@@ -73,9 +73,11 @@ Finally, we can plot the respective interactive terms (CountXPercentNonwhite and
 
 Unfortunately, due to the size of the dataset, I was not able to have enough memory in my computer to finish predicting (I tried both hot spot analysis and kernel density) on the full dataset, so I tried it on just the 2019 dataset. 
 
+![image](https://user-images.githubusercontent.com/59181449/117854574-9ebcbc00-b257-11eb-9c93-debbbcc1a5e5.png)
 
+Here we can see the hotspot analysis and the spatial mean of the data - the hotspots are divided - one large section is in a very white, rural part (Appalachia region), and one is in Black and brown neighborhoods in the south (Texas to Louisiana corridor). 
 
 ### Conclusion & Next Steps
 
-This project is simply the start of analyzing where and how these toxic spills happen and how they affect communities of color. There is much that can be done to improve this project, from other ways to visualize the data to deeper analysis on specific counties. For now, however, this dashboard can act as an important tool that can help the EPA find and intervene in counties where spills are happening. 
+This project is simply the start of analyzing where and how these toxic spills happen and how they affect communities of color. There is much that can be done to improve this project, from other ways to visualize the data to deeper analysis on specific counties (and tribal areas). For now, however, this dashboard can act as an important tool that can help the EPA find and intervene in counties where spills are happening. 
 
